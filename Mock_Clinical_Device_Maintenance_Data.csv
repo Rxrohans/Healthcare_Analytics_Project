@@ -1,0 +1,51 @@
+Equipment_ID,Equipment_Type,Location,Last_Serviced,Next_Due_Date,Technician,Status
+EQ001,CT Scanner,ICU,2025-03-17,2026-03-08,John P.,Operational
+EQ002,Ventilator,NICU,2024-10-25,2025-03-28,Rajeev K.,Overdue
+EQ003,CT Scanner,OT,2024-06-14,2025-05-30,Deepak C.,Overdue
+EQ004,CT Scanner,CSOT,2024-04-30,2025-04-30,Rajeev K.,Under Maintenance
+EQ005,C-Arm,Radiology,2025-02-10,2025-10-03,Maya S.,Due Soon
+EQ006,C-Arm,Patient Wards,2025-01-31,2025-05-07,Maya S.,Under Maintenance
+EQ007,CABG System,OPDs,2024-06-20,2024-10-21,John P.,Due Soon
+EQ008,EMG,ICU,2025-03-06,2025-08-14,Rajeev K.,Due Soon
+EQ009,Patient Monitor,NICU,2024-12-26,2025-07-10,Rajeev K.,Operational
+EQ010,Ventilator,Patient Wards,2025-01-03,2025-04-28,Alex T.,Due Soon
+EQ011,Incubator,NICU,2024-10-27,2025-07-31,Deepak C.,Overdue
+EQ012,CT Scanner,NICU,2025-03-15,2026-03-10,Maya S.,Under Maintenance
+EQ013,Incubator,Radiology,2024-08-02,2025-04-29,Deepak C.,Operational
+EQ014,EMG,OT,2024-06-11,2025-04-07,Deepak C.,Under Maintenance
+EQ015,MRI Scanner,NICU,2025-03-04,2025-10-01,Rajeev K.,Due Soon
+EQ016,Ventilator,Emergency Room,2024-05-15,2024-10-19,Maya S.,Overdue
+EQ017,Ultrasound Machine,Patient Wards,2024-06-18,2025-04-14,Rajeev K.,Due Soon
+EQ018,Anaesthesia Workstation,Emergency Room,2024-07-18,2025-03-27,Maya S.,Under Maintenance
+EQ019,EMG,OPDs,2024-06-13,2024-12-02,Anjali R.,Due Soon
+EQ020,Incubator,ICU,2024-07-29,2025-05-23,Rajeev K.,Due Soon
+EQ021,Audiometry Unit,NICU,2024-04-21,2024-10-24,Deepak C.,Due Soon
+EQ022,MRI Scanner,ICU,2025-03-26,2026-01-29,John P.,Due Soon
+EQ023,Patient Monitor,NICU,2024-11-20,2025-02-27,Maya S.,Due Soon
+EQ024,MRI Scanner,CSOT,2025-04-12,2025-08-15,Anjali R.,Under Maintenance
+EQ025,Patient Monitor,OPDs,2025-02-19,2025-11-24,Rajeev K.,Overdue
+EQ026,EEG,ICU,2024-09-16,2025-01-20,Alex T.,Operational
+EQ027,Anaesthesia Workstation,OT,2024-09-23,2025-02-22,Maya S.,Due Soon
+EQ028,Dialysis Machine,ICU,2024-09-26,2025-09-25,Anjali R.,Overdue
+EQ029,MRI Scanner,Radiology,2024-04-23,2025-02-12,Deepak C.,Due Soon
+EQ030,Audiometry Unit,CSOT,2024-05-23,2025-03-22,Alex T.,Due Soon
+EQ031,Incubator,ICU,2025-01-30,2025-12-12,Rajeev K.,Operational
+EQ032,Anaesthesia Workstation,Patient Wards,2024-12-25,2025-07-07,Deepak C.,Overdue
+EQ033,Incubator,NICU,2024-08-08,2025-05-28,Rajeev K.,Under Maintenance
+EQ034,Patient Bed,CSOT,2024-09-19,2025-01-18,Deepak C.,Due Soon
+EQ035,Anaesthesia Workstation,Emergency Room,2024-10-07,2025-02-13,Deepak C.,Operational
+EQ036,Ventilator,CSOT,2024-11-13,2025-09-10,Maya S.,Overdue
+EQ037,Patient Monitor,CSOT,2024-08-03,2024-12-20,Rajeev K.,Under Maintenance
+EQ038,CT Scanner,CSOT,2024-04-25,2024-07-29,Maya S.,Operational
+EQ039,MRI Scanner,NICU,2024-09-05,2025-03-04,John P.,Under Maintenance
+EQ040,Patient Monitor,ICU,2024-10-12,2025-03-24,Anjali R.,Operational
+EQ041,CT Scanner,Emergency Room,2024-06-01,2024-10-19,Anjali R.,Due Soon
+EQ042,Patient Bed,Emergency Room,2025-02-12,2025-05-17,John P.,Operational
+EQ043,MRI Scanner,CSOT,2025-03-01,2025-10-12,Maya S.,Under Maintenance
+EQ044,C-Arm,CSOT,2024-05-29,2025-05-25,Anjali R.,Operational
+EQ045,Incubator,OPDs,2025-03-19,2025-10-30,Rajeev K.,Overdue
+EQ046,EEG,Patient Wards,2025-04-03,2026-03-12,John P.,Overdue
+EQ047,Incubator,Radiology,2024-09-03,2025-08-23,John P.,Overdue
+EQ048,Audiometry Unit,Patient Wards,2024-07-30,2024-11-16,John P.,Operational
+EQ049,Patient Bed,OT,2024-08-24,2025-06-19,John P.,Due Soon
+EQ050,Patient Bed,Emergency Room,2024-08-28,2025-02-01,Maya S.,Under Maintenance
