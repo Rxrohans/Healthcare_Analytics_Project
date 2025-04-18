@@ -1,5 +1,12 @@
+## Table of Contents
+- [Project Overview](#project-overview)
+- [Dashboard Preview](#️dashboard-preview)
+- [Files in this Repository](#files-in-this-repository)
+- [Insights](#insights)
+- [Author](#Author)
 
 # Clinical Device Lifecycle & Risk Management Platform
+
 
 🧠 A project built using Power BI + Figma based on clinical workflows observed during academic clinical exposure at CMC Vellore and SCTIMST, simulating a real-world hospital scenario for monitoring and managing medical equipment risks and maintenance.
 
@@ -45,9 +52,10 @@ Manual logs and delayed preventive maintenance workflows create safety and compl
   ## 📂 Files in this Repository
 
 - 📊 [Dashboard Power BI File (.pbix)](./Device Analytics project dashboard.pbix)
-- 📄 [Mock Hospital Dataset (.csv)](./Mock_Clinical_Device_Data.csv)
+- 📄 [Mock Hospital Dataset (.csv)](./Mock_Clinical_Maintenance_Data.csv)
 - 🖼️ [Dashboard Screenshot](./Dashboard.png))
-- 📑 [Final Slide Deck (PPT)](Healthcare_analytics_project.pptx)
+- 📑 [Final Slide Deck (PPT)](./Healthcare_analytics_project.pdf)
+![Slide Deck Preview](./Healthcare_analytics_project.pdf)
 
 
 ## 📂 Files Included
