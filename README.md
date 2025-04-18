@@ -32,12 +32,23 @@ Manual logs and delayed preventive maintenance workflows create safety and compl
 - Technician Workload
 - Equipment Type Breakdown
 - Monthly Service Trends
+## 🖥️ Dashboard Preview
+
+![Dashboard Preview](./Dashboard.png)
 
 ## 📈 Insights Enabled
 - High-risk zones (e.g. NICU, OT)
 - Technician overload patterns
 - Non-compliance with service cycles
 - Readiness for NABH/ISO audit
+
+  ## 📂 Files in this Repository
+
+- 📊 [Dashboard Power BI File (.pbix)](./Device Analytics project dashboard.pbix)
+- 📄 [Mock Hospital Dataset (.csv)](./Mock_Clinical_Device_Data.csv)
+- 🖼️ [Dashboard Screenshot](./Dashboard.png))
+- 📑 [Final Slide Deck (PPT)](Healthcare_analytics_project.pptx)
+
 
 ## 📂 Files Included
 - `/Data/` - Mock hospital data (CSV)
@@ -47,7 +58,7 @@ Manual logs and delayed preventive maintenance workflows create safety and compl
 
 ## 📥 Author
 **Rohan Singh**  
-MTech Clinical Engineering  
+  
 📧 rohans.dmvt@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/rohan-singh-688a7a1b8/)  
 
