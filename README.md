@@ -55,6 +55,8 @@ Manual logs and delayed preventive maintenance workflows create safety and compl
 - 📄 [Mock Hospital Dataset (.csv)](./Mock_Clinical_Maintenance_Data.csv)
 - 🖼️ [Dashboard Screenshot](./Dashboard.png))
 - 📑 [Final Slide Deck (PPT)](./Healthcare_analytics_project.pdf)
+
+## 🖥️ Slide Deck Preview
 ![Slide Deck Preview](./Healthcare_analytics_project.pdf)
 
 
